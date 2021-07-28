@@ -29,6 +29,7 @@
 		CEA1FBA026B12AA0001D83EB /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FB9F26B12AA0001D83EB /* AudioTrack.swift */; };
 		CEA1FBA226B12AAB001D83EB /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA126B12AAB001D83EB /* Artist.swift */; };
 		CEA1FBA426B12AB4001D83EB /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA326B12AB4001D83EB /* Profile.swift */; };
+		CEA1FBA626B13C02001D83EB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA526B13C02001D83EB /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		CEA1FB9F26B12AA0001D83EB /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		CEA1FBA126B12AAB001D83EB /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		CEA1FBA326B12AB4001D83EB /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		CEA1FBA526B13C02001D83EB /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				CEA1FB6726B1264A001D83EB /* AppDelegate.swift */,
 				CEA1FB6926B1264A001D83EB /* SceneDelegate.swift */,
 				CEA1FB7026B1264D001D83EB /* Assets.xcassets */,
+				CEA1FBA526B13C02001D83EB /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				CEA1FB8A26B129F1001D83EB /* AuthViewController.swift in Sources */,
 				CEA1FB6826B1264A001D83EB /* AppDelegate.swift in Sources */,
 				CEA1FB8626B129CF001D83EB /* LibraryViewController.swift in Sources */,
+				CEA1FBA626B13C02001D83EB /* Extensions.swift in Sources */,
 				CEA1FB9426B12A35001D83EB /* PlaylistViewController.swift in Sources */,
 				CEA1FBA226B12AAB001D83EB /* Artist.swift in Sources */,
 				CEA1FB6A26B1264A001D83EB /* SceneDelegate.swift in Sources */,
