@@ -30,6 +30,7 @@
 		CEA1FBA226B12AAB001D83EB /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA126B12AAB001D83EB /* Artist.swift */; };
 		CEA1FBA426B12AB4001D83EB /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA326B12AB4001D83EB /* Profile.swift */; };
 		CEA1FBA626B13C02001D83EB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA526B13C02001D83EB /* Extensions.swift */; };
+		CEA1FBA826B15910001D83EB /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1FBA726B15910001D83EB /* AuthResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		CEA1FBA126B12AAB001D83EB /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		CEA1FBA326B12AB4001D83EB /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		CEA1FBA526B13C02001D83EB /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		CEA1FBA726B15910001D83EB /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				CEA1FB9F26B12AA0001D83EB /* AudioTrack.swift */,
 				CEA1FBA126B12AAB001D83EB /* Artist.swift */,
 				CEA1FBA326B12AB4001D83EB /* Profile.swift */,
+				CEA1FBA726B15910001D83EB /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				CEA1FB9026B12A1D001D83EB /* ProfileViewController.swift in Sources */,
 				CEA1FB8226B1299B001D83EB /* TabBarViewController.swift in Sources */,
 				CEA1FB6C26B1264A001D83EB /* HomeViewController.swift in Sources */,
+				CEA1FBA826B15910001D83EB /* AuthResponse.swift in Sources */,
 				CEA1FB9C26B12A7F001D83EB /* HapticsManager.swift in Sources */,
 				CEA1FBA026B12AA0001D83EB /* AudioTrack.swift in Sources */,
 				CEA1FB8A26B129F1001D83EB /* AuthViewController.swift in Sources */,
