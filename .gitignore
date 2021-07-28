@@ -1,0 +1,10 @@
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+.DS_Store
+.DS_Store?
+Musification/Musification.xcworkspace/xcuserdata/user.xcuserdatad/xcschemes/xcschememanagement.plist
+Musification/Pods/Pods.xcodeproj/xcuserdata/user.xcuserdatad/xcschemes/xcschememanagement.plist
+Musification/Musification.xcworkspace/xcuserdata/user.xcuserdatad/xcschemes/xcschememanagement.plist
+Musification/Musification.xcodeproj/xcuserdata/user.xcuserdatad/xcschemes/xcschememanagement.plist
+Musification/Musification.xcworkspace/xcuserdata/user.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
